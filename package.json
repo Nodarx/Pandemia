@@ -1,0 +1,26 @@
+{
+  "name": "pandemia",
+  "version": "1.0.0",
+  "description": "parcial web",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nodarx/Pandemia.git"
+  },
+  "keywords": [
+    "parcial"
+  ],
+  "author": "Nicolas ovelencio Y Angie fajardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nodarx/Pandemia/issues"
+  },
+  "homepage": "https://github.com/Nodarx/Pandemia#readme",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "express": "^4.17.1"
+  }
+}
